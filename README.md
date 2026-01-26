@@ -50,3 +50,11 @@ Security Controls Implemented
 - Effectiveness of host-based endpoint protection
 - Practical experience troubleshooting security configuration issues
 - Importance of documentation and validation evidence
+
+  secure-home-lab/
+├─ README.md
+├─ linux-secure-lab/
+│  └─ screenshots/
+├─ windows-secure-lab/
+│  └─ screenshots/
+
