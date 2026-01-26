@@ -51,6 +51,9 @@ Security Controls Implemented
 - Practical experience troubleshooting security configuration issues
 - Importance of documentation and validation evidence
 
- <img width="1267" height="994" alt="Screenshot 2026-01-24 223121" src="https://github.com/user-attachments/assets/7a54954f-ab45-4e0f-839c-885860024b6f" />
+
+## Image evidence
+![UFW Configuration on Ubantu Desktop] <img width="1919" height="1197" alt="Screenshot 2026-01-01 155722" src="https://github.com/user-attachments/assets/416ffd76-e053-4b9c-adc6-9d22f4728e43" />
+
 
 
