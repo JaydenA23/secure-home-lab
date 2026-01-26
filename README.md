@@ -52,8 +52,14 @@ Security Controls Implemented
 - Importance of documentation and validation evidence
 
 
-## Image evidence
-# UFW Configuration on Ubantu Desktop <img width="1919" height="1197" alt="Screenshot 2026-01-01 155722" src="https://github.com/user-attachments/assets/416ffd76-e053-4b9c-adc6-9d22f4728e43" />
+## Key Image evidence
+# UFW Configuration on Ubantu Desktop <img width="1919" height="1197" alt="Screenshot 2026-01-01 155722" src="https://github.com/user-attachments/assets/416ffd76-e053-4b9c-adc6-9d22f4728e43" /> 
+# Enabled disk encryption (Linux) <img width="1093" height="662" alt="Screenshot 2026-01-08 003325" src="https://github.com/user-attachments/assets/dad90168-3141-433e-b11d-8510fcb4561d" />
+# Virus threat and protection enabled (Windows) <img width="1919" height="1197" alt="Screenshot 2026-01-20 235304" src="https://github.com/user-attachments/assets/1a510fbb-4336-4041-89ae-6196736f4fcb" />
+# Defender quarintine alert from the Eicar antivirus test <img width="1919" height="1199" alt="Screenshot 2026-01-24 223718" src="https://github.com/user-attachments/assets/cc9af5e3-7bbb-44d6-bd96-c02dca44fb40" />
+
+
+
 
 
 
