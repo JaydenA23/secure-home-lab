@@ -51,10 +51,6 @@ Security Controls Implemented
 - Practical experience troubleshooting security configuration issues
 - Importance of documentation and validation evidence
 
-  secure-home-lab/
-├─ README.md
-├─ linux-secure-lab/
-│  └─ screenshots/
-├─ windows-secure-lab/
-│  └─ screenshots/
+ <img width="1267" height="994" alt="Screenshot 2026-01-24 223121" src="https://github.com/user-attachments/assets/7a54954f-ab45-4e0f-839c-885860024b6f" />
+
 
