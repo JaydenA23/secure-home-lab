@@ -53,7 +53,7 @@ Security Controls Implemented
 
 
 ## Image evidence
-![UFW Configuration on Ubantu Desktop] <img width="1919" height="1197" alt="Screenshot 2026-01-01 155722" src="https://github.com/user-attachments/assets/416ffd76-e053-4b9c-adc6-9d22f4728e43" />
+# UFW Configuration on Ubantu Desktop <img width="1919" height="1197" alt="Screenshot 2026-01-01 155722" src="https://github.com/user-attachments/assets/416ffd76-e053-4b9c-adc6-9d22f4728e43" />
 
 
 
