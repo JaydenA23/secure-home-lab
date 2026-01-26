@@ -7,10 +7,10 @@ The goal was to simulate real-world enterprise security practices in a controlle
 ## Tools Used
 - Oracle VirtualBox
 - Ubuntu Linux (LTS)
-- Windows 11 (x64)
+- Windows 11 
 - Microsoft Defender Antivirus
 - PowerShell
-- GitHub (documentation & version control)
+- GitHub 
 
 ## Linux Secure Lab
 Configuration
@@ -38,10 +38,12 @@ Security Controls Implemented
 - User Account Control (UAC) enforced
 - Standard user account created alongside administrator account
 - Principle of least privilege demonstrated
-- Malware Simulation Test
+
+Malware Simulation Test
 - EICAR test file used to safely simulate malware
 - Microsoft Defender successfully detected and quarantined the threat
 - Detection verified via Windows Security protection history
+This confirmed that endpoint protection and real-time monitoring were functioning correctly.
 
 ## Key Security Learnings
 
